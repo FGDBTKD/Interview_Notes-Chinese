@@ -8,10 +8,13 @@ __*/
 out/
 
 # file
+-*
 *.zip
 *.tgz
 Untitled.ipynb
 MyCV.pdf
+MyCV.md
+GSD_*.pdf
 
 # root
 /demo.py
